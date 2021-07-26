@@ -69,6 +69,7 @@ body {
   padding-right: 17px;
   display: flex;
   align-items: center;
+  cursor: pointer;
 }
 .search-button-text {
   margin-left: 5px;
