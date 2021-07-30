@@ -1,5 +1,5 @@
 # Abito
-Glo Academy training project
+Internet service for posting ads (Glo Academy training project)
 ###
 - HTML
 - CSS
