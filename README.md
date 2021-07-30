@@ -4,3 +4,4 @@ Glo Academy training project
 - HTML
 - CSS
 - NORMALIZE.CSS
+- SWIPER-JS
